@@ -8,7 +8,7 @@ https://doi.org/10.1061/(ASCE)EM.1943-7889.0001440
 https://doi.org/10.1016/j.ymssp.2018.10.014 
 
 
-Download the module from https://github.com/subhayande/Model_Falsification. See the demo fals_test1.py for an example of the implementation. For a tutorial see Falsification_Tutorial.pdf.  
+Download the module from https://github.com/subhayande/Model_Falsification. See the demo [fals_test1.py](fals_test1.py) for an example of the implementation. For a tutorial see [Falsification_Tutorial.pdf](Falsification_Tutorial.pdf).  
 
 ### Required packages: ###
 numpy, scipy, time  
