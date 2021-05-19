@@ -13,8 +13,8 @@ Download the module from https://github.com/subhayande/Model_Falsification. See 
 ### Required packages: ###
 numpy, scipy, time  
 NOTE: Currently, only Gaussian distributions for residual errors are allowed and two-sided hypothesis tests are implemented.  
-Report any bugs to Subhayan.De@colorado.edu 
-
+Report any bugs to Subhayan.De@colorado.edu   
+### Website: www.subhayande.com
 
 License: Copyright (C) 2019 Subhayan De 
 
