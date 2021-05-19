@@ -47,7 +47,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
 SOFTWARE.
 
-@author: Subhayan De
+@author: Subhayan De, Ph.D. (email: Subhayan.De@colorado.edu) 
+Website: www.subhayande.com 
 """
 
 import numpy as np
