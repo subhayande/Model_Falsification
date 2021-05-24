@@ -1,6 +1,6 @@
 # Data-driven Model Falsification in Python
 
-For a theoretical overview on model falsification please see:   
+For a theoretical overview of model falsification please see:   
 
 1. **De, Subhayan, et al.** "Investigation of model falsification using error and likelihood bounds with application to a structural system." Journal of Engineering Mechanics 144.9 (2018): 04018078.   
 https://doi.org/10.1061/(ASCE)EM.1943-7889.0001440  
